@@ -1,4 +1,4 @@
-![Edgy](https://github.com/Da-MongXiang/edgy/blob/main/public/project-preview.png?raw=true)
+![Edgy](https://github.com/Da-MongXiang/react-edgy/blob/main/public/project-preview.png?raw=true)
 
 # [Edgy](https://edgy-media.vercel.app/) - #1 Instagram Growth Agency
 
